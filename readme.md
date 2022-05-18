@@ -9,11 +9,133 @@ CSS 奇技淫巧，在这里，都有。
 
 ## iCSS 前端趣闻
 
-所有文章也都会同步更新到我的公众号，没有广告，只有天马行空的想象，想 Get 到最有意思的 CSS 资讯，千万不要错过我的 iCSS 公众号 😄
+所有文章会首发更新到我的公众号，想 Get 到最有意思的 CSS 资讯，千万不要错过我的 iCSS 公众号 😄
 
-<img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png">
+<img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png" />
 
 ## 文章列表
+
+#### 145、[浅谈逻辑选择器 is、where、not、has](https://github.com/chokcoco/iCSS/issues/181)
+
+#### 144、[现代 CSS 解决方案：CSS 数学函数](https://github.com/chokcoco/iCSS/issues/177)
+
+#### 143、[离谱的 CSS！从表盘刻度到艺术剪纸](https://github.com/chokcoco/iCSS/issues/180)
+
+![](https://user-images.githubusercontent.com/8554143/164239137-ee2d9e90-66ac-42b3-8e66-1ce81a0b1a38.gif)
+
+#### 142、[让交互更加生动！有意思的鼠标跟随 3D 旋转动效](https://github.com/chokcoco/iCSS/issues/179)
+
+![](https://user-images.githubusercontent.com/8554143/163177359-9b1941cd-93ec-478a-bba7-32ed34ca5945.gif)
+
+#### 141、[Amazing！巧用 CSS 视差实现酷炫交互动效](https://github.com/chokcoco/iCSS/issues/178)
+
+![](https://user-images.githubusercontent.com/8554143/162746366-7d7bade9-a78d-4b18-b9af-aa79ec9f9e7e.gif)
+
+#### 140、[现代 CSS 解决方案：Modern CSS Reset](https://github.com/chokcoco/iCSS/issues/176)
+
+#### 139、[巧用 background-clip 实现超强的文字动效 ](https://github.com/chokcoco/iCSS/issues/175)
+
+![](https://user-images.githubusercontent.com/8554143/160836908-aa36f16a-4895-41b0-91fd-5782b370579d.gif)
+
+#### 138、[一道有意思的 CSS 面试题，FizzBu​​zz ~](https://github.com/chokcoco/iCSS/issues/174)
+
+#### 137、[2022 年最受瞩目的新特性 CSS @layer 到底是个啥？](https://github.com/chokcoco/iCSS/issues/171)
+
+#### 136、[CSS 阴影进阶，实现更加的立体的阴影效果！](https://github.com/chokcoco/iCSS/issues/170)
+
+![](https://camo.githubusercontent.com/447042c5666f850c5a3f9a19426e64c7d72cca75d521265386aefe4e52fd81d0/68747470733a2f2f70392d6a75656a696e2e62797465696d672e636f6d2f746f732d636e2d692d6b3375316662706663702f39623138383132346638616434396630393461616135373838326135393439307e74706c762d6b3375316662706663702d77617465726d61726b2e696d6167653f)
+
+#### 135、[利用混合模式，让文字智能适配背景颜色](https://github.com/chokcoco/iCSS/issues/169)
+
+![](https://user-images.githubusercontent.com/8554143/156753214-a6b1b6b7-b3fe-47b1-ab3e-601a2e98962e.gif)
+
+#### 134、[系统性学习 CSS 指南及全 DEMO 练习](https://github.com/chokcoco/iCSS/issues/168)
+
+#### 133、[巧用 CSS 构建渐变彩色二维码](https://github.com/chokcoco/iCSS/issues/167)
+
+![](https://user-images.githubusercontent.com/8554143/155879216-ad6fc4e2-979a-4e52-8308-7f99ad8311de.png)
+
+#### 132、[来了来了，它终于来了，动画杀手锏 @scroll-timeline](https://github.com/chokcoco/iCSS/issues/166)
+
+![](https://user-images.githubusercontent.com/8554143/155667488-a139c576-6abb-4001-bbf9-a6900cf09c75.gif)
+
+#### 131、[突破限制，CSS font-variation 可变字体的魅力](https://github.com/chokcoco/iCSS/issues/164)
+
+![](https://user-images.githubusercontent.com/8554143/154795501-7ae58f37-df35-43ae-803c-16af9bad9d31.gif)
+
+#### 130、[小技巧 | 渐变消失遮罩的多种实现方式](https://github.com/chokcoco/iCSS/issues/163)
+
+![](https://user-images.githubusercontent.com/8554143/154455188-ca43054a-c34d-4eb0-89ca-ee2a3881e796.png)
+
+#### 129、[巧用 CSS 实现炫彩三角边框动画](https://github.com/chokcoco/iCSS/issues/162)
+
+![](https://user-images.githubusercontent.com/8554143/153760987-305539d2-1896-4717-9551-f054fd9ba6f1.gif)
+
+#### 128、[扫盲贴：2021 CSS 最冷门特性都是些啥？](https://github.com/chokcoco/iCSS/issues/161)
+
+![](https://user-images.githubusercontent.com/8554143/153198755-aac1ca13-80c3-4459-9746-3a418a939dd6.png)
+
+#### 127、[疑难杂症：运用 transform 导致文本模糊的现象探究](https://github.com/chokcoco/iCSS/issues/160)
+
+#### 126、[LPL Ban/Pick 选人阶段的遮罩效果是如何实现的？](https://github.com/chokcoco/iCSS/issues/159)
+
+![](https://user-images.githubusercontent.com/8554143/150136348-ea717988-9e1c-4503-b040-719dde193521.gif)
+
+#### 125、[巧用 CSS 实现动态线条 Loading 动画](https://github.com/chokcoco/iCSS/issues/158)
+
+![](https://user-images.githubusercontent.com/8554143/149146680-b1d7f89b-2e6a-4787-85bd-c7d871564816.gif)
+
+#### 124、[深入浅出 CSS 动画](https://github.com/chokcoco/iCSS/issues/141)
+
+![](https://user-images.githubusercontent.com/8554143/148633639-66ceea90-94ea-4e1e-9bfe-38d4917a2a51.gif)
+
+#### 123、[妙用滤镜构建高级感拉满的磨砂玻璃渐变背景](https://github.com/chokcoco/iCSS/issues/157)
+
+![](https://user-images.githubusercontent.com/8554143/148382115-b8092fb6-1e17-46e7-a61d-6fa3cc838e7c.png)
+
+#### 122、[深入探讨 filter 与 backdrop-filter 的异同](https://github.com/chokcoco/iCSS/issues/147)
+
+#### 121、[Amazing！！CSS 也能实现烟雾效果？](https://github.com/chokcoco/iCSS/issues/156)
+
+![](https://user-images.githubusercontent.com/8554143/147098212-8f74ce74-2069-4d28-98ad-6cea0990bdfe.gif)
+
+#### 120、[Amazing！！CSS 也能实现极光？](https://github.com/chokcoco/iCSS/issues/155)
+
+![](https://user-images.githubusercontent.com/8554143/146188628-c878bc0c-e48e-48fc-99fb-1fc593580df8.gif)
+
+#### 119、[神奇的滤镜！巧妙实现内凹的平滑圆角](https://github.com/chokcoco/iCSS/issues/154)
+
+![](https://user-images.githubusercontent.com/8554143/144423491-3df2c65a-0440-44ba-ad91-9c995a340c90.png)
+
+#### 118、[利用 clip-path 实现动态区域裁剪](https://github.com/chokcoco/iCSS/issues/153)
+
+#### 117、[使用 CSS 轻松实现一些高频出现的奇形怪状按钮](https://github.com/chokcoco/iCSS/issues/152)
+
+![](https://user-images.githubusercontent.com/8554143/142734383-ec0e4dfd-38b0-4eeb-a1ee-b4e17c9488b6.png)
+
+#### 116、[巧用渐变实现高级感拉满的背景光动画](https://github.com/chokcoco/iCSS/issues/150)
+
+![](https://user-images.githubusercontent.com/8554143/141609598-e0a1e420-2967-4ce4-8086-bfef1233f5f6.gif)
+
+#### 115、[巧用滤镜实现高级感拉满的文字快闪切换效果](https://github.com/chokcoco/iCSS/issues/149)
+
+<img width=400 src="https://user-images.githubusercontent.com/8554143/140746534-93b02f03-7624-4d1a-b832-9269f7c4f848.gif" />
+
+#### 114、[3D 穿梭效果？使用 CSS 轻松搞定](https://github.com/chokcoco/iCSS/issues/148)
+
+![](https://user-images.githubusercontent.com/8554143/141036836-b82282d9-a869-4d33-b031-567a38aed965.gif)
+
+#### 113、[仅仅使用 HTML/CSS 实现进度条的 N 种方式](https://github.com/chokcoco/iCSS/issues/146)
+
+![](https://user-images.githubusercontent.com/8554143/130446725-8dc02d0e-8fc7-43b1-995c-a26f25392c0c.gif)
+
+#### 112、[CSS 奇技淫巧 | 巧妙实现文字二次加粗再加边框](https://github.com/chokcoco/iCSS/issues/145)
+
+#### 111、[利用 CSS Overview 面板重构优化你的网站](https://github.com/chokcoco/iCSS/issues/144)
+
+#### 110、[小技巧 | 一行代码实现头像与国旗的融合](https://github.com/chokcoco/iCSS/issues/143)
+
+![](https://user-images.githubusercontent.com/8554143/135429916-18314111-bd24-406e-bc2c-9441040d0eec.png)
 
 #### 109、[CSS 奇技淫巧 | 妙用 drop-shadow 实现线条光影效果](https://github.com/chokcoco/iCSS/issues/142)
 
@@ -396,15 +518,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 101、噪声在CSS中的应用
 
-#### 97、巧用图片，搭配 CSS 实现各类酷炫的动画
-
-#### 96、各种毛玻璃效果
-
 #### 95、[CSS Ellipsis Beginning of String]()
-
-#### 102、CSS 逻辑属性的前世今生
-
-#### 103、神奇的 CSS Resize
 
 #### 106、浅谈 HTML 与 CSS 的图片处理（Picture 与 image-set）
 
@@ -412,9 +526,11 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 108、CSS 奇思妙想 | 仅使用 CSS 实现斐波那契螺旋线
 
-#### 109、如何写出让别人看不懂的选择器？
-
 #### 110、学会内联使用 CSS 变量，减少代码提升效率
+
+#### 112、CSS at-rules(@) 规则扫盲
+
+#### 115、The CSS Paint API
 
 ## Contact Me
 
@@ -423,3 +539,7 @@ CSS 奇技淫巧，在这里，都有。
 也欢迎想讨论各种天马行空的 CSS 相关问题的小伙伴们加入。
 
 ![qun](https://github.com/chokcoco/iCSS/blob/master/qqqun.png)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/chokcoco/iCSS.svg)](https://starchart.cc/chokcoco/iCSS)
